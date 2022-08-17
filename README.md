@@ -1,4 +1,4 @@
-# play_DRUMS
+# PLAY_DRUMS
 Simple DRUM KIT using html css and javascript.</br>
 Just open this given output link you will automatically know how to play it...
 </br>
